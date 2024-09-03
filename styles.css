@@ -1,4 +1,29 @@
-.foto{
+
+
+.foto img {
     width: 300px;
     height: 500px;
 }
+
+.carro {
+    width: 300px;
+    height: 500px;
+}
+
+.estadio {
+    width: 300px;
+    height: 500px;
+}
+
+.marcantes{
+    display: flex;
+    justify-content: space-around;
+}
+.cr7 img{
+    padding: 150px;
+    justify-content: space-around;
+    width: 400px;
+    height: 500px;
+    border-radius: 40px;
+}
+
